@@ -38,12 +38,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/engineering-consultation-system.git"
+    "url": "git+https://github.com/ahmedzamzam55/engineering-consultation-system.git"
   },
   "bugs": {
-    "url": "https://github.com/username/engineering-consultation-system/issues"
+    "url": "https://github.com/ahmedzamzam55/engineering-consultation-system/issues"
   },
-  "homepage": "https://github.com/username/engineering-consultation-system#readme",
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=8.0.0"
